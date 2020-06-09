@@ -5,4 +5,5 @@
 * [2. 의미 있는 이름](2.meaningful-names-introduction.md)
 * [3. 함수](3.functions.md)
 * [4. 주석](4.comments.md)
+* [5. 형식 맞추기](5.formatting.md)
 
