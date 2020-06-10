@@ -15,6 +15,8 @@
 
 ![&#xCF54;&#xB4DC; &#xD488;&#xC9C8;&#xC744; &#xCE21;&#xC815;&#xD558;&#xB294; &#xC720;&#xC77C;&#xD55C; &#xCC99;&#xB3C4; = &#xBD84;&#xB2F9; WTF &#xD69F;&#xC218;](.gitbook/assets/image%20%281%29.png)
 
+_**코드 품질 = WTF\(What The Fuck\) 횟수/분**_
+
 
 
 
