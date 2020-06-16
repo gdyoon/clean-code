@@ -7,4 +7,5 @@
 * [4. 주석](4.comments.md)
 * [5. 형식 맞추기](5.formatting.md)
 * [6. 객체와 자료 구조](6.objects-and-data-structures.md)
+* [7. 오류 처리](7.error-handling.md)
 
